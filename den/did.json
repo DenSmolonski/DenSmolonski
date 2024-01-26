@@ -81,5 +81,27 @@
     "keyAgreement": [
         "did:web:example.com#key-1",
         "did:web:example.com#key-2"
+    ],
+    "serviceEndpoints": [
+        {
+            "id": "#issuer-13",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-11",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-15",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-17",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        }
     ]
 }
