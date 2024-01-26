@@ -82,7 +82,7 @@
         "did:web:example.com#key-1",
         "did:web:example.com#key-2"
     ],
-    "serviceEndpoints": [
+    "service": [
         {
             "id": "#issuer-13",
             "type": "VlcCareerIssuer_v1",
