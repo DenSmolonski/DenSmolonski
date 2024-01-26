@@ -10,9 +10,10 @@
             "type": "JsonWebKey2020",
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
-                "kty": "OKP",
-                "crv": "Ed25519",
-                "x": "0-e2i2_Ua1S5HbTYnVB0lj2Z2ytXu2-tYmDFf8f5NjU"
+                "kty": "EC",
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         },
         {
@@ -20,9 +21,10 @@
             "type": "JsonWebKey2020",
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
-                "kty": "OKP",
-                "crv": "X25519",
-                "x": "9GXjPGGvmRq9F6Ng5dQQ_s31mfhxrcNZxRGONrmH30k"
+                "kty": "EC",
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         },
         {
@@ -31,9 +33,9 @@
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
                 "kty": "EC",
-                "crv": "P-256",
-                "x": "38M1FDts7Oea7urmseiugGW7tWc3mLpJh6rKe7xINZ8",
-                "y": "nDQW6XZ7b_u2Sy9slofYLlG03sOEoug3I0aAPQ0exs4"
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         }
     ],
@@ -43,9 +45,10 @@
             "type": "JsonWebKey2020",
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
-                "kty": "OKP",
-                "crv": "Ed25519",
-                "x": "0-e2i2_Ua1S5HbTYnVB0lj2Z2ytXu2-tYmDFf8f5NjU"
+                "kty": "EC",
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         },
         {
@@ -53,9 +56,10 @@
             "type": "JsonWebKey2020",
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
-                "kty": "OKP",
-                "crv": "X25519",
-                "x": "9GXjPGGvmRq9F6Ng5dQQ_s31mfhxrcNZxRGONrmH30k"
+                "kty": "EC",
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         },
         {
@@ -64,9 +68,9 @@
             "controller": "did:web:densmolonski.github.io%2FDenSmolonski:den",
             "publicKeyJwk": {
                 "kty": "EC",
-                "crv": "P-256",
-                "x": "38M1FDts7Oea7urmseiugGW7tWc3mLpJh6rKe7xINZ8",
-                "y": "nDQW6XZ7b_u2Sy9slofYLlG03sOEoug3I0aAPQ0exs4"
+                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
+                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "crv": "secp256k1"
             }
         }
     ],
