@@ -106,6 +106,16 @@
             "id": "#issuer-17",
             "type": "VlcCareerIssuer_v1",
             "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "type": "VlcCredentialAgentOperator_v1",
+            "id": "#cao_saas",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "type": "VlcCredentialAgentOperator_v1",
+            "id": "#cao_saas-1",
+            "serviceEndpoint": "https://www.abchealth.com"
         }
     ]
 }
