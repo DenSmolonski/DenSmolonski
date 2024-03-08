@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hey there!  I'm a Full Stack Developer 👋
 
+### _JavaScript is my gem 💎 I love building web apps from the very beginning, bringing ideas to life with code._
+
+
+I work with React, Node, Express, Fastify, Ethers and more...
+
+Let's Connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dzianis-smalonski-648051100/)
 <!--
 **DenSmolonski/DenSmolonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
