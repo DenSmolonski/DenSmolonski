@@ -33,8 +33,8 @@
             "controller": "did:web:densmolonski.github.io:DenSmolonski:den10",
             "publicKeyJwk": {
                 "kty": "EC",
-                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
-                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "x": "5WdSxk9nok8No2m_1m9nIaaqQeed68sLYnxxA44xAHE",
+                "y": "H0ex86X8w3QqNy8B4ESa1XeVMKqW54BrF3RxmzJQs0Q",
                 "crv": "secp256k1"
             }
         }
@@ -68,8 +68,8 @@
             "controller": "did:web:densmolonski.github.io:DenSmolonski:den10",
             "publicKeyJwk": {
                 "kty": "EC",
-                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
-                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
+                "x": "5WdSxk9nok8No2m_1m9nIaaqQeed68sLYnxxA44xAHE",
+                "y": "H0ex86X8w3QqNy8B4ESa1XeVMKqW54BrF3RxmzJQs0Q",
                 "crv": "secp256k1"
             }
         }
