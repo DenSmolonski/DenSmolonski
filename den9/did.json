@@ -46,9 +46,9 @@
             "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
-                "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
-                "y": "gfX0f7FDHAQi90qtzGQ7SyXoYNAzQF3y0--oIKG2I5s",
-                "crv": "secp256k1"
+                "x": "E15k6p3r6WnRnMGe-K1DyseodzfXbcgKFQ0QzOnX4ys",
+                "y": "v1a4sEDuzs2Z96wroCZut72ZgWvCxq1bVMsiehRrbVs",
+                "crv": "P-256"
             }
         },
         {
