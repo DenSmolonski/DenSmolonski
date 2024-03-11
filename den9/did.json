@@ -3,12 +3,12 @@
         "https://www.w3.org/ns/did/v1",
         "https://w3id.org/security/suites/jws-2020/v1"
     ],
-    "id": "did:web:densmolonski.github.io:DenSmolonski:den6",
+    "id": "did:web:densmolonski.github.io:DenSmolonski:den9",
     "verificationMethod": [
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-0",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-0",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "E15k6p3r6WnRnMGe-K1DyseodzfXbcgKFQ0QzOnX4ys",
@@ -17,9 +17,9 @@
             }
         },
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-1",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-1",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
@@ -28,9 +28,9 @@
             }
         },
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-2",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-2",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
@@ -41,9 +41,9 @@
     ],
     "publicKey": [
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-0",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-0",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
@@ -52,9 +52,9 @@
             }
         },
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-1",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-1",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
@@ -63,9 +63,9 @@
             }
         },
         {
-            "id": "did:web:densmolonski.github.io:DenSmolonski:den6#key-2",
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den9#key-2",
             "type": "JsonWebKey2020",
-            "controller": "did:web:densmolonski.github.io:DenSmolonski:den6",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den9",
             "publicKeyJwk": {
                 "kty": "EC",
                 "x": "OdFnNJvwWiHX1wVVQChNgl5mvbTs9oADufJhhcOEkR8",
