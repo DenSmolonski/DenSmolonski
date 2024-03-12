@@ -1,0 +1,111 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/did/v1",
+        "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:densmolonski.github.io:DenSmolonski:den11",
+    "verificationMethod": [
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-0",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "bx3ZX8CLO92tVKX4Zn7_iy_fe0LDKkqV_a2lhE5wcqw",
+                "y": "hmbtxZKCfqvT4p4iY7f4xM1HwB3Zjjuq5OQqN7Diims",
+                "crv": "secp256k1"
+            }
+        },
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-1",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "EcnUvOLgF_0aIWV_UxzxsK-ZpHcS11_PIp6lZPDLCqQ",
+                "y": "lCyRuT--pVY8if6GhuN8U_l_1mbrewdgX7dhpMFJfL4",
+                "crv": "secp256k1"
+            }
+        },
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-2",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "5WdSxk9nok8No2m_1m9nIaaqQeed68sLYnxxA44xAHE",
+                "y": "H0ex86X8w3QqNy8B4ESa1XeVMKqW54BrF3RxmzJQs0Q",
+                "crv": "secp256k1"
+            }
+        }
+    ],
+    "publicKey": [
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-0",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "bx3ZX8CLO92tVKX4Zn7_iy_fe0LDKkqV_a2lhE5wcqw",
+                "y": "hmbtxZKCfqvT4p4iY7f4xM1HwB3Zjjuq5OQqN7Diims",
+                "crv": "secp256k1"
+            }
+        },
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-1",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "EcnUvOLgF_0aIWV_UxzxsK-ZpHcS11_PIp6lZPDLCqQ",
+                "y": "lCyRuT--pVY8if6GhuN8U_l_1mbrewdgX7dhpMFJfL4",
+                "crv": "secp256k1"
+            }
+        },
+        {
+            "id": "did:web:densmolonski.github.io:DenSmolonski:den11#key-2",
+            "type": "JsonWebKey2020",
+            "controller": "did:web:densmolonski.github.io:DenSmolonski:den11",
+            "publicKeyJwk": {
+                "kty": "EC",
+                "x": "5WdSxk9nok8No2m_1m9nIaaqQeed68sLYnxxA44xAHE",
+                "y": "H0ex86X8w3QqNy8B4ESa1XeVMKqW54BrF3RxmzJQs0Q",
+                "crv": "secp256k1"
+            }
+        }
+    ],
+    "authentication": [
+        "did:web:example.com#key-0",
+        "did:web:example.com#key-2"
+    ],
+    "assertionMethod": [
+        "did:web:example.com#key-0",
+        "did:web:example.com#key-2"
+    ],
+    "keyAgreement": [
+        "did:web:example.com#key-1",
+        "did:web:example.com#key-2"
+    ],
+    "service": [
+        {
+            "id": "#issuer-13",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-11",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-15",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        },
+        {
+            "id": "#issuer-17",
+            "type": "VlcCareerIssuer_v1",
+            "serviceEndpoint": "https://www.abchealth.com"
+        }
+    ]
+}
