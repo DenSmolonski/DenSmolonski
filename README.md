@@ -1,9 +1,9 @@
 ## Hey there!  I'm a Full Stack Blockchain Developer 👋
 
-### _JavaScript is my gem 💎 I love building web apps from the very beginning, bringing ideas to life with code._
+### I love building web3 apps from the very beginning, bringing ideas to life with code._
 
 
-I work with React, Node, Express, Fastify, Ethers, Solidity and more...
+I work with JavaScript, Node, Solidity, Rust and more...
 
 Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dzianis-smalonski-648051100/)
