@@ -3,7 +3,7 @@
 ### I love building web3 apps from the very beginning, bringing ideas to life with code._
 
 
-I work with JavaScript, Node, Solidity and more...
+I work with Go, Rust, Python, Typescript, JavaScript, Node, Solidity and more...
 
 Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dzianis-smalonski-648051100/)
