@@ -6,7 +6,7 @@
 I work with Go, Rust, Python, Typescript, JavaScript, Node, Solidity and more...
 
 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dzianis-smalonski-648051100/)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/den-smalonski/)
 <!--
 **DenSmolonski/DenSmolonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
